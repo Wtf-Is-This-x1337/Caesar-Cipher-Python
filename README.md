@@ -1,5 +1,5 @@
 # Caesar-Cipher-Python
-Tool to decrypt/encrypt with Caesar.
+Tool to decrypt/encrypt/bruteforce with Caesar.
 
 ### Preview
 
