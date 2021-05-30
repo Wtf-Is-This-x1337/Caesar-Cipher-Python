@@ -6,17 +6,17 @@ Tool to decrypt/encrypt/bruteforce with Caesar.
 2)Decrypt Text with Cipher              
 3)Bruteforce the decryption key             
 
-### Preview
-## Menu 
+## Preview
+### Menu 
 ![alt text](https://github.com/Wtf-Is-This-x1337/Caesar-Cipher-Python/blob/main/Images/main.png?raw=true)
 
-## Mode 1 - Encrypt 
+### Mode 1 - Encrypt 
 ![alt text](https://github.com/Wtf-Is-This-x1337/Caesar-Cipher-Python/blob/main/Images/mode%201.png?raw=true)
 
-## Mode 2 - Decrypt
+### Mode 2 - Decrypt
 ![alt text](https://github.com/Wtf-Is-This-x1337/Caesar-Cipher-Python/blob/main/Images/mode%202.png?raw=true)
 
-## Mode 3 - Bruteforce
+### Mode 3 - Bruteforce
 ![alt text](https://github.com/Wtf-Is-This-x1337/Caesar-Cipher-Python/blob/main/Images/mode%203.png?raw=true)
 
 ### How to use
