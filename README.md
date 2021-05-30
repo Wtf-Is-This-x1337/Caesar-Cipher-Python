@@ -1,6 +1,11 @@
 # Caesar-Cipher-Python
 Tool to decrypt/encrypt/bruteforce with Caesar.
 
+### Modes
+1)Encrypt text with Cipher
+2)Decrypt Text with Cipher
+3)Bruteforce the decryption key
+
 ### Preview
 
 ### How to use
