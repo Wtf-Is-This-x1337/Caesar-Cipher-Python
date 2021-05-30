@@ -80,8 +80,6 @@ elif mode == 2:
     print("-> Decrypted text: " + str(decrypted))
 elif mode == 3:
     system('cls')
-    # 25 de posibilitati
     brutetext = input("Encrypted text: ")
-    for a in range (1,25):
+    for a in range (1,26):
         print("Shift = "+ str(a) + " | Text: " + str(cipher_decrypt(brutetext, a)))
-
